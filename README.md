@@ -1,4 +1,6 @@
-# RoboticsSpecialization-UPenn-AerialRobotics
+Projects from the Coursera Robotics Specialization- Aerial Robotics
+Instructor- Prof. Vijay Kumar
+
 This Repository contains projects from the Robotics specialization from Coursera offered by the University of Pennsylvania- Instructor: Prof. Vijay Kumar
 Projects from the Coursera Robotics Specialization
 This repo contains the solutions from all the major programming assignements in this Coursera Course.
@@ -23,7 +25,7 @@ Contributing
 Please read CONTRIBUTING.md for the process for submitting pull requests.
 
 Authors
-Fotios Kapotos - Initial work
+Pruthvi Omkar Geedh
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgements

@@ -1,6 +1,6 @@
 <h1>Coursera Robotics Specialization- Aerial Robotics</h1>
 <h4>Instructor</h4> 
-<h5>Prof. Vijay Kumar</h5>-Nemirovsky Family Dean of Penn Engineering and Professor of Mechanical Engineering and Applied Mechanics
+<h5>Prof. Vijay Kumar</h5>Nemirovsky Family Dean of Penn Engineering and Professor of Mechanical Engineering and Applied Mechanics
 School of Engineering and Applied Science
 
 This repository contains the solutions from all the programming assignements and quiz in this Coursera Course.

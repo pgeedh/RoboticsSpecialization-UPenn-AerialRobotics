@@ -1,5 +1,5 @@
 <h2>Projects from the Coursera Robotics Specialization- Aerial Robotics</h2>
-Instructor- Prof. Vijay Kumar
+<h1>Instructor- Prof. Vijay Kumar<h1>
 
 This Repository contains projects from the Robotics specialization from Coursera offered by the University of Pennsylvania- Instructor: Prof. Vijay Kumar
 Projects from the Coursera Robotics Specialization

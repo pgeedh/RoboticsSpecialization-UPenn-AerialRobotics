@@ -1,3 +1,4 @@
+#author:Pruthvi Geedh
 function [ s_des ] = fixed_set_point(t, z_des)
 %FIXED_SET_POINT  Outputs a constant desired state = [z_des;0] except at t = 0 where it returns [0;0]
 

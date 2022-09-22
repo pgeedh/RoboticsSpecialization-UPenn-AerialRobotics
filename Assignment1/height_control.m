@@ -1,3 +1,4 @@
+#author:Pruthvi Geedh
 function [t_out, z_out] = height_control(trajhandle, controlhandle)
 
 addpath('utils');

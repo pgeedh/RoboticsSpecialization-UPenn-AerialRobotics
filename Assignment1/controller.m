@@ -1,3 +1,4 @@
+#author:Pruthvi Geedh
 function [ u ] = pd_controller(~, s, s_des, params)
 %PD_CONTROLLER  PD controller for the height
 %
